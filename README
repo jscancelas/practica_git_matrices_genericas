@@ -1,0 +1,5 @@
+Programa con una clase genérica para trabajar con matrices.
+Ofrece el producto de matrices y la trasposición con varios métodos alternativos
+También tiene métodos para rellenar matrices e imprimirlas por pantalla.
+
+Hay un archivo con una función main para probar el funcionamiento del programa.
