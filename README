@@ -3,3 +3,5 @@ Ofrece el producto de matrices y la trasposición con varios métodos alternativ
 También tiene métodos para rellenar matrices e imprimirlas por pantalla.
 
 Hay un archivo con una función main para probar el funcionamiento del programa.
+
+La carpeta de build quedará fuera del git
